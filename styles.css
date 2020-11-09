@@ -3,7 +3,12 @@ body {
     font-family: 'Oswald', sans-serif; background: url(fire-spinning.jpg) 
     }
     
-    
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+    } 
       
   h1 {
     color: rgb(228, 139, 208);
